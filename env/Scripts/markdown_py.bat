@@ -1,0 +1,1 @@
+@"D:\Django\pizza\env\Scripts\python.exe" "D:\Django\pizza\env\Scripts\markdown_py" %*
